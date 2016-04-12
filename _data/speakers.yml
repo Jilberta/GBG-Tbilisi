@@ -2,9 +2,9 @@
   id: 3
   name: "Resul Caner "
   surname: "Yıldırım"
-  company: "InnovationBox, Protechman.net"
-  title: "Google Developer Expert (GDE)"
-  bio: '<p>As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on <a href="https://developers.google.com/">developers.google.com</a> . I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies. By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region.</p>'
+  company: "Google Developer Expert (GDE)"
+  title: "InnovationBox, Protechman.net"
+  bio: '<p>Caner is a UX designer who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. Previously he worked in a publication company on digital magazines. Today, he works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been a user group leader at GDG Istanbul since 2013, organising, participating, and speaking at events. He shares his experience in User Experience via conferences or workshops at Droidcon, DevFest, and other conferences.</p>'
   thumbnailUrl: caner.jpg
   rockstar: true
   social: 
@@ -14,22 +14,22 @@
     - {name: "site", link: "http://www.protechman.net/"}
 - 
   id: 4
-  name: "Oytun "
-  surname: "Eren  Sengul"
-  company: "Digital Experience Consultant"
-  title: "Business, Communication, Growth Marketing, Ecosystem, UX, Mobile Development, Design, Startups..."
-  bio: "I'm heavily interested in startups, mobile apps, Community build up, Growth Hacking and UX. By the way, I love kernels and operating systems. As every Sales&Marketing Specialist needs to understand about business, as much as I did; presales, sale, tele-marketing, B2B & B2C marketing, enterprise communications... As every Community Manager needs to understand about programming, as much as I understand; Objective-C, Java, .NET, JavaScript, Python, HTML5, C and my hobby is Assembly. Member of Linux Foundation, Turkish, working on emerging mobile software markets, in vehicle infotainment and decided to growth Linux based in everywhere. Communication between developers-producers-end users. Ready for sale and well prepared to enterprise. Mobile software development team lead and ecosystem provider. End of the day, try to learn everything about life and always keep searching based mobile."
-  thumbnailUrl: oytun.jpg
+  name: "ვახო"
+  surname: "ვახტანგიშვილი"
+  company: "GBG Tbilisi Manager, Co-founder of Leavingstone"
+  title: "GBG Tbilisi Manager, Co-founder of Leavingstone, Co-founder of GeoLab"
+  bio: ""
+  thumbnailUrl: vakho_vakhtangishvili_3.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/108497665620300512154/posts"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAhca1wBpeo1LmSdcukJEjVRRI-tPW8Nbog&authType=NAME_SEARCH&authToken=HbHX&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A140274524%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889140662%2Ctas%3AOytun%20Eren%20Sengul"}
-    - {name: "facebook", link: "https://www.facebook.com/oytuneren?fref=ts"}
-    - 
+    - {name: "google-plus", link: "https://plus.google.com/u/1/109726022381882622823/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/iamgatsby"}
+    - {name: "twitter", link: "https://twitter.com/iamvakho"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vakhtangishvili"}
 - 
   id: 5
-  name: "შალვა "
-  surname: "ბუკია"
+  name: "დავით"
+  surname: "ჩიკვაიძე"
   company: "Co-Founder at In2circle"
   title: ""
   bio: '<p>დაიწყო ვებ სტუდია Pixel-ში ვებ დიზაინერად, შემდეგ Singular Group-ში იყო არტ დირექტორი, შემდეგ Bank of Georgia - Digital Experience Designer. ამჟამად არის <a href="http://sadili.ge">სადილი.ge</a> (საჭმლის ქეითერინგ სერვისი, in2circle inc.-ის ქვეკომპანია) - თანადამფუძნებელი და Spribe (IT კომპანია, <a href="http://spribe.co/">spribe.co</a>) - პარტნიორი.</p>'
