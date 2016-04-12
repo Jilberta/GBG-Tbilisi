@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GBG Tbilisi 2016"
 email: "info@geolab.edu.ge"
-description: "GDG DevFest is a set of events all around the world"
+description: "GBG Tbilisi 2016 is a set of events all around the world"
 baseurl: "/GBG-Tbilisi" #/zeppelin
 url: "http://jilberta.github.io"
 permalink: "/blog/:title"
@@ -21,15 +21,15 @@ googleAnalyticsSiteUrl: ""
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Tbilisi"
-organizerAlternateName: "Google Developer Group Tbilisi"
+organizerName: "GBG Tbilisi"
+organizerAlternateName: "Google Business Group Tbilisi"
 organizerDescription: "მოხალისე ჭკვიანი და ტექნოლოგიების მოყვარული ადამიანები, რომლებიც მუშაობენ ინოვაციურ პროექტებზე და უზიარებენ გამოცდილებას გუგლის ტექნოლოგიების შესახებ სხვებს."
 organizerEmail: "info@geolab.edu.ge"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://geolab.edu.ge"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, tbilisi, business"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -73,8 +73,8 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "ნოემბერი 6-7-8, 2015"
+heroTitle: "GBG Tbilisi <typeout> 2016"
+eventDate: "აპრილი 16-17, 2016"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
@@ -87,7 +87,7 @@ heroButtons:
 #  - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
 
 # About Block
-aboutTitle: "GDG DevFest-ის შესახებ"
+aboutTitle: "GBG Tbilisi-ის შესახებ"
 aboutBlock:
  - {title: "კონფერენცია", image: "conference.jpg", text: "GDG–ის ყოველწლიური დეველოპერული ფესტივალი საქართველოში. Google-ის წარმომადგენლები, საინტერესო სპიკერები და განსაკუთრებული ღონისძიება სპეციალურად GDG თბილისისთვის." }
  - {title: "ვორქშოფები", image: "workshop.jpg", text: "2 საათიანი პრაქტიკული ლექცია, რომელზეც მონაწილეები თავად შექმნიან მარტივ აპლიკაციებსა და დიზაინს. ბევრი პროგრამირება, ინოვაცია და ტექნოლოგია." }
@@ -119,9 +119,9 @@ eventAddressLocality: "თბილისი"
 eventAddressLocalityRegion: "საქართველო"
 eventPostalCode: "0160"
 eventAddressCountry: "საქართველო"
-eventStartTime: "2015-11-07T11:00"
+eventStartTime: "2016-04-16T13:00"
 eventDoorTime: "10:00"
-eventEndTime: "2015-11-08T20:00"
+eventEndTime: "2016-04-17T20:00"
 eventPlaceCoordinates: "41.717753, 44.784889"
 mapCenterCoordinates: "41.717753, 44.784889"
 mapMobileCenterCoordinates: "41.717753, 44.784889"
@@ -139,7 +139,7 @@ venueFeatures: ["მობილური და ვებ აპლიკაც
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "GBG Tbilisi"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -205,7 +205,7 @@ footerBlocks:
  -
   title: "ბმულები"
   links:
-    - {link: "https://developers.google.com", text: "Google Developers"}
+    - {link: "https://www.google.com/landing/gbg/", text: "Google Business Group"}
    # - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
  -
   title: "კონტაქტები"
@@ -219,7 +219,7 @@ footerBlocks:
 # Blog
 blogTitle: "სიახლეები"
 blogCommentsEnabled: false
-discusShortName: "devfestua"
+discusShortName: "gbgtbilisi"
 
 # Speakers List Block
 showSessions: false
