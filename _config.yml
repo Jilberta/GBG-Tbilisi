@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GBG Tbilisi 2016"
 email: "info@geolab.edu.ge"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "" #/zeppelin
+baseurl: "/GBG-Tbilisi" #/zeppelin
 url: "http://jilberta.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
