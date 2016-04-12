@@ -14,7 +14,7 @@ title: "GBG Tbilisi 2016"
 email: "info@geolab.edu.ge"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "" #/zeppelin
-url: "http://jilberta.github.io/GBG-Tbilisi"
+url: "http://jilberta.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
