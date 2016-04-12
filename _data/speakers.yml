@@ -1,16 +1,17 @@
 - 
   id: 3
-  name: "Baris "
-  surname: "Yesugey"
-  company: "Google"
-  title: "Developer Ecosystem Region Lead (Turkey, Central Asia, Caucasus)"
+  name: "Resul Caner "
+  surname: "Yıldırım"
+  company: "InnovationBox, Protechman.net"
+  title: "Google Developer Expert (GDE)"
   bio: '<p>As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on <a href="https://developers.google.com/">developers.google.com</a> . I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies. By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region.</p>'
-  thumbnailUrl: baris.jpg
+  thumbnailUrl: caner.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+BarisYesugeyy/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/brs?fref=ts"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAkAAAIIih8B9fGpCv4JiKAgxReSTPM80DGqxkY&authType=NAME_SEARCH&authToken=48Pb&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A34114079%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445889068975%2Ctas%3Abaris%20yes"}
+    - {name: "google-plus", link: "https://plus.google.com/+RCanerY%C4%B1ld%C4%B1r%C4%B1m/posts"}
+    - {name: "twitter", link: "https://twitter.com/protechman"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/protechman"}
+    - {name: "site", link: "http://www.protechman.net/"}
 - 
   id: 4
   name: "Oytun "
