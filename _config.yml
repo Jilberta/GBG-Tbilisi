@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Tbilisi DevFest 2015"
+title: "GBG Tbilisi 2016"
 email: "info@geolab.edu.ge"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "" #/zeppelin
-url: "https://irakligeo.github.io"
+url: "http://jilberta.github.io/GBG-Tbilisi"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
