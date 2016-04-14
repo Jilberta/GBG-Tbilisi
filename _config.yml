@@ -59,7 +59,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "განრიგი"}
  - {permalink: "/speakers/", text: "სპიკერები"}
  - {permalink: "/team/", text: "ჩვენ"}
- - {permalink: "/hackathon/", text: "ჰაკათონი"}
+ # - {permalink: "/hackathon/", text: "ჰაკათონი"}
 # bottomNavigationLinks:
  # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  # - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
