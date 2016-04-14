@@ -60,8 +60,8 @@ navigationLinks:
  - {permalink: "/speakers/", text: "სპიკერები"}
  - {permalink: "/team/", text: "ჩვენ"}
  # - {permalink: "/hackathon/", text: "ჰაკათონი"}
-# bottomNavigationLinks:
- # - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
+bottomNavigationLinks:
+ - {link: "http://goo.gl/forms/Jem8xAwfSO", text: "გახდი სპიკერი"}
  # - {link: "http://goo.gl/forms/iz3hwtMuj7", text: "დევფესტზე რეგისტრაცია"}
  # - {link: "http://goo.gl/forms/bXPWsxNVVt", text: "ჰაკათონზე რეგისტრაცია"}
  # - {link: "https://docs.google.com/forms/d/1xX6u0spjFYUJK0mKeF35ALFAt8SA1wMUvD07bVoYATg/viewform?edit_requested=true", text: "დიზაინ სპრინტი"}
