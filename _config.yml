@@ -198,10 +198,10 @@ partnersC4sponsorsButton: "გახდი სპონსორი"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/106672659252619762166", icon: "google-plus"}
+ - {link: "https://plus.google.com/117981755986971742185", icon: "google-plus"}
  - {link: "https://twitter.com/GeoLabEdu", icon: "twitter"}
- - {link: "https://facebook.com/gdgtbilisi", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://www.facebook.com/gbgtbilisi", icon: "facebook"}
+ # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "ბმულები"
