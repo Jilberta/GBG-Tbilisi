@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://goo.gl/forms/Jem8xAwfSO"
-c4sponsorsUrl: "/assets/GDG_Tbilisi_Sponsorship.pdf"
+c4sponsorsUrl: "/assets/GBG_Tbilisi_Sponsorship.pdf"
 
 
 # Navigation
@@ -277,7 +277,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "ჰაკათონი"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "ჰაკათონი 6-7-8 ნოემბერი"
