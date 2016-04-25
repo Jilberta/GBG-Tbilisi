@@ -62,9 +62,9 @@
 
 -
   id: 1
-  name: "სანდრო"
-  surname: "ასათიანი"
-  title: "ჯეოლაბის რექტორი"
+  name: "Sandro  "
+  surname: "  Asatiani"
+  title: "Rector at GeoLab"
   thumbnailUrl: sandro_asatiani.jpg
   team: true
   social: 
@@ -72,23 +72,23 @@
     - {name: "facebook", link: "https://www.facebook.com/sandro.asatiani"}
     - {name: "github", link: "https://github.com/sandroasatiani"}
     - {name: "linkedin", link: "http://www.linkedin.com/pub/sandro-asatiani/10/355/1b8/en"}
--
-  id: 2
-  name: "ნინუცა"
-  surname: "ნანიტაშვილი"
-  title: "GDG თბილისის დამფუძნებელი და მენეჯერი"
-  thumbnailUrl: ninuca_nanitashvili.jpg
-  team: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
-    - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
+# -
+#   id: 2
+#   name: "ნინუცა"
+#   surname: "ნანიტაშვილი"
+#   title: "GDG თბილისის დამფუძნებელი და მენეჯერი"
+#   thumbnailUrl: ninuca_nanitashvili.jpg
+#   team: true
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
+#     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
+#     - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
 -
   id: 3
-  name: "ვახო"
-  surname: "ვახტანგიშვილი"
-  title: "Co-Founder Leavingstone"
+  name: "Vakho  "
+  surname: "  Vakhtangishvili"
+  title: "GBG Tbilisi Manager, Co-Founder Leavingstone"
   thumbnailUrl: vakho_vakhtangishvili_3.jpg
   team: true
   social: 
@@ -98,9 +98,9 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/vakhtangishvili"}
 -
   id: 4
-  name: "ალექსი"
-  surname: "ამნიაშვილი"
-  title: "ჯეოლაბის ლექტორი"
+  name: "Alexi  "
+  surname: "  Amniashvili"
+  title: "GeoLab Lecturer"
   thumbnailUrl: alexi_amniashvili.jpg
   team: true
   social: 
@@ -110,9 +110,9 @@
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAnnp3IBQt-cEzYV6Kvw5mSnJygNnqkX468&trk=hp-identity-photo"}
 -
   id: 5
-  name: "გიორგი"
-  surname: "ვახტანგიშვილი"
-  title: "Android Developer"
+  name: "Giorgi  "
+  surname: "  Vakhtangishvili"
+  title: "CTO at GeoLab"
   thumbnailUrl: giorgi_vakhtangishvili.jpg
   team: true
   social: 
@@ -122,8 +122,8 @@
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAeaH5ABXrI5syaPewd_TQVBnAHrXAy6JhI&trk=hp-identity-name"}
 -
   id: 6
-  name: "ლიკა"
-  surname: "მოშიაშვილი"
+  name: "Lika  "
+  surname: "  Moshiashivili"
   title: "ჯეოლაბის მედიისა და კომუნიკაციის მენეჯერი"
   thumbnailUrl: lika_moshiashvili.jpg
   team: true
@@ -132,18 +132,27 @@
     - {name: "linkedin", link: "https://www.linkedin.com/pub/lika-moshiashvili/106/aa8/920"}
 -
   id: 7
-  name: "ლევან"
-  surname: "ასათიანი"
+  name: "Levan  "
+  surname: "  Asatiani"
   title: "UX/UI Designer"
   thumbnailUrl: levan_asatiani.jpg
   team: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/asatianilevan"}
 -
+  id: 8
+  name: "Anano  "
+  surname: "  Sharashenidze"
+  title: "UX/UI Designer"
+  thumbnailUrl: anano_sharashenidze.jpg
+  team: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/ann.anno.3"}
+-
   id: 30
-  name: "ჯეოლაბის"
-  surname: "გუნდი"
-  title: "ვებ და მობილური აპლიკაციების ლაბორატორია"
+  name: "GeoLab  "
+  surname: "  Team"
+  title: "Web and Mobile apps Laboratory"
   thumbnailUrl: geolab_team.jpg
   subTeam: true
   social: 
