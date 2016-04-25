@@ -48,17 +48,17 @@
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/probnoblem"}
-- 
-  id: 7
-  name: "Levan "
-  surname: "Paitchadze"
-  company: "Ideahub"
-  title: ""
-  bio: "ideahub'ის დამფუძნებელი და დირექტორი. ასევე დავაფუძნებელი ვებ სტუდია deastudio. მჯერა იდეების, ინოვაციებისა და კრეატივის ნებისმიერ საქმეში. ""The people who are crazy enough to think they can change the world, are the ones who do"" ­ Steve Jobs"
-  thumbnailUrl: levan_paitchadze.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/levan.paitchadze"}
+# - 
+#   id: 7
+#   name: "Levan "
+#   surname: "Paitchadze"
+#   company: "Ideahub"
+#   title: ""
+#   bio: "ideahub'ის დამფუძნებელი და დირექტორი. ასევე დავაფუძნებელი ვებ სტუდია deastudio. მჯერა იდეების, ინოვაციებისა და კრეატივის ნებისმიერ საქმეში. \""The people who are crazy enough to think they can change the world, are the ones who do"" ­ Steve Jobs"
+#   thumbnailUrl: levan_paitchadze.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/levan.paitchadze"}
 - 
   id: 8
   name: "დავით "

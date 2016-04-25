@@ -78,7 +78,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GBG <typeout> 2016"
-eventDate: "აპრილი 16-17, 2016"
+eventDate: "აპრილი 16-17"
 typeoutTextValues: '"", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
