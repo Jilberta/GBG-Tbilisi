@@ -33,7 +33,7 @@
   company: ""
   title: ""
   bio: "Certified Training Manager with 9 years experience in number of fields including: Sales, Service Management, Leadership, Team Building. Professional trainer for customer service and sales."
-  thumbnailUrl: david_chikvaidze.jpg
+  thumbnailUrl: david_chikvaidze.png
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/davidtrainingman"}
@@ -44,7 +44,7 @@
   company: ""
   title: ""
   bio: "მეწარმე ბიზნეს კონსულტანტი, საინფორმაციო ტექნოლოგიების სპეციალისტი, ლექტორი და საჯარო სპიკერი. თავის საჯარო გამოსვლებში იგი დიდ ადგილს უთმობს ისეთ თემებს როგორიცაა: თამაშის თეორია, პიროვნების და ორგანიზაციის ფილოსოფია და კულტურა, ინოვაციების მართვა."
-  thumbnailUrl: andro_dgebuadze.jpg
+  thumbnailUrl: andro_dgebuadze.png
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/probnoblem"}
@@ -77,7 +77,7 @@
   company: ""
   title: ""
   bio: "An IT expert with 20 years of experience, including work for governmental, international and private organisations in Georgia. As IT Expert has experience in the following areas: ICT project management; ICT strategy development; ICT infrastructure audit; ICT project implementation audit; ICT strategy plan evaluation; ICT operational management and change management procedure development; Management of IT supply and software development tenders; ICT security policy development."
-  thumbnailUrl: irakli_gvenetadze.jpg
+  thumbnailUrl: irakli_gvenetadze.png
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/irakli.gvenetadze"}
@@ -88,7 +88,7 @@
   company: "TreePex"
   title: ""
   bio: "Have passion... love it, have fun what you do...don’t let others tell you something can’t be done...build things for yourself at first that you would love, you would want! Here comes the clock;"
-  thumbnailUrl: bacho_khachidze.jpg
+  thumbnailUrl: bacho_khachidze.png
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/bacho.khachidze.7"}
