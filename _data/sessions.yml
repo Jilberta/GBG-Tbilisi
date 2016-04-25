@@ -119,22 +119,22 @@
   place: "200-ე აუდიტორია"
 -
   id: 201
-  title: "GDG Devfest Tbilisi 2015 გახსნა"
-  description: "დეველოპერების ფესტივალის გახსნა"
+  title: "GBG Tbilisi 2016 გახსნა"
+  description: "ორდღიანი ფესტივალის გახსნა"
   subtype: keynote
   speakers: [3]
   language: en
   complexity: "Intermediate"
 -
   id: 202
-  title: "ორიოდე სიტყვა პროდუქტ დიზაინის შესახებ"
-  description: "რა არის პროდუქტ დიზაინი და რასთან ერთად იჭმევა? როგორ იქმნება კარგი (ამ შემთხვევაში ციფრული) პროდუქტი. რა ნიუანსები არსებობს და რას უნდა მიექცეს ყურადღება. დეველოპერის როლი პროდუქტ დიზაინში."
+  title: "Social Entrepreneurship and TreePex"
+  description: ""
   subtype: presentation
   speakers: [5]
   complexity: "Intermediate"
 -
   id: 203
-  title: "Paper to Digital: Google Material Design"
+  title: "EGovernment"
   description: ""
   subtype: presentation
   speakers: [4]
@@ -142,51 +142,58 @@
   complexity: "Intermediate"
 -
   id: 204
-  title: "2D Game Design"
+  title: "Startupbootcamp Istanbul"
   description: ""
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
 -
   id: 205
-  title: "Web MIDI API"
-  description: "Web MIDI API-ს მცირე შესავალი და რეალური დემონსტრაცია. Web MIDI API არის ექსპერიმენტული და (ჯერ-ჯერობით) არც ისე ცნობილი ტექნოლოგია, რომლის დახმარებითაც შეგვიძლია დავაკავშიროთ MIDI Hardware და ბრაუზერი."
+  title: "GizGiz"
+  description: ""
   subtype: presentation
   speakers: [6]
   complexity: "Intermediate"
 -
   id: 206
-  title: "Mobile Backend as a service (Parse.com)"
-  description: "დღეს მობილური აპლიკაციების უმრავლესობას სჭირდება მონაცემების სერვერზე შენახვა, თუმცა ყველა დეველოპერს არ ეხალისება server-side-ზე მუშაობა, თავის ტკივილის აცილების ბევრი გზა არსებობს, მათგან კი ერთ-ერთია Parse."
+  title: "Yoga of Creativity"
+  description: ""
   subtype: keynote
   speakers: [8]
   complexity: "Intermediate"
 -
   id: 207
-  title: "'რა მოგვცა აბუ აბდულლაჰ მუჰამედ იბნ მუსამ?'"
-  description: "ყველაფერში, რაც ამ ტექსტის წაკითხვამდე გააკეთეთ ან რასაც შემდეგ იზამთ, თქვენ  გამოიყენეთ ალგორითმები. არ ვხუმრობ. კბილების გახეხვა, ხელ-პირის დაბანა, კვერცხის შეწვა, თანამშრომელთან ლაპარაკი - ეს ყველაფერი ( სწორი ან არასწორი) ალგორითმების გამოყენებით ხდება. ალგორითმები პროგრამირებაშ და ალგორითმები ყოველდღიურ ცხოვრებაში - ორივე შემთხვევაში, ოპტიმალურად შერჩეული ალგორითმი მნიშვნელოვანწილად ზოგავს დროს და ენერგიას."
+  title: "Hood.ge"
+  description: ""
   subtype: presentation
   speakers: [9]
   complexity: "Intermediate"
 -
   id: 208
-  title: "მეწარმეობის ფსიქოლოგია - რისთვის უნდა ვიყო მზად, როდესაც ვაკეთებ start-up-ს? "
-  description: "გამოსვლა შეეხება მეწარმეობის ფსიქოლოგიას. რა გამოწვევები აქვს start-up-ერს, რა მორალური და ფსიქოლოგიური წინააღმდეგობები ხვდება მას და ზოგადად როგორია წარმატებული მეწარმის სახე."
+  title: "UI/UX, Marketing"
+  description: ""
   subtype: presentation
   speakers: [10]
   complexity: "Intermediate"
 -
   id: 209
-  title: "UX in Agile World "
-  description: "Agile is a way to get everything done as fast as possible, so the user experience is often disregarded in Agile development, as it needs time for general processes, like user research. But dealing with UX issues cannot be ignored as your competitors are always a tap away. So how to not make things slow in Agile, but also take care of user experience?"
+  title: "How to build a startup"
+  description: ""
   subtype: presentation
   speakers: [11]
   language: en
   complexity: "Intermediate"
 -
   id: 210
-  title: "რა არის Docker?"
-  description: "* თუ ხარ დეველოპერი ან სისტემური ადმინისტრატორი... <br><br> * თუ აგტკიებია თავი შენი გარემოს გამართვისას და შემდეგ იგივეს კეთებისას გნუდში არსებული ყველა დეველოპერისთვის... <br><br> * თუ ერთხელ მაინც უწვალებიხარ სერვერზე დეპლოიმენტს... <br><br> მაშინ შეიძლება Docker - ი დაგეხმაროს. <br><br> მარტივად გამართვადი და გაზიარებადი დეველოპმენტ და დეპლოიმენტ გარემოები დეველოპერებისა და სისტემური ადმინისტრატორებისთვის."
+  title: "Sales like a pro"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+  complexity: "Intermediate"
+-
+  id: 211
+  title: "Why do we need Google Analytics?!"
+  description: ""
   subtype: presentation
   speakers: [12]
   complexity: "Intermediate"
@@ -198,61 +205,78 @@
   description: "საუკეთესო დრო სპიკერებთან და დამსწრეებთან სასაუბროდ :)"
 -
   id: 504
-  title: "ანდროიდის ვორქშოფი"
-  description: "რა არის საჭირო ანდროიდ აპლიკაციის გასაკეთებლად და როგორ დავწეროთ პირველი აპპი."
+  title: "AdWords and SEO"
+  description: ""
   subtype: workshop
   complexity: "Intermediate"
   service: true
 -
   id: 505
-  title: "Android Material Design"
-  description: "როგორ ავაწყოთ ანდროიდ აპლიკაციის დიზაინი Material Design-ის დახმარებით"
+  title: "Successful Presentation"
+  description: ""
   subtype: workshop
   complexity: "Intermediate"
   service: true
 -
   id: 506
-  title: "2D თამაში მობილურისთვის"
-  description: "როგორ გავაკეთოთ მარტივი 2D თამაში ჩვენი ტელეფონებისთვის"
+  title: "Innovative thinking"
+  description: ""
   subtype: workshop
   complexity: "Intermediate"
   service: true
 -
   id: 507
-  title: "Front End"
-  description: "როგორ ავაწყოთ ვებსაიტი"
+  title: "Online Advertising"
+  description: ""
+  subtype: workshop
+  complexity: "Intermediate"
+  service: true
+-
+  id: 508
+  title: "From Idea to Project"
+  description: ""
   subtype: workshop
   complexity: "Intermediate"
   service: true
 -
   id: 601
-  title: "რეგისტრაცია"
-  description: "ჯგუფების რეგისტრაცია Design Sprint-ზე"
+  title: "გახსნა"
+  description: "ჯგუფების რეგისტრაცია FastTrack-ზე"
   service: true
 -
   id: 602
-  title: "Sprint-ის დაწყება"
-  description: "იწყება Design Sprint-ის მუშაობა"
+  title: "გასაუბრებების დაწყება"
+  description: "იწყება FastTrack-ის გასაუბრებები"
   service: true
 -
   id: 603
-  title: "Sprint-ის გაგრძელება"
-  description: "გრძელდება მუშაობა Design Sprint-ზე"
+  title: "FastTrack-ის გაგრძელება"
+  description: "გრძელდება გასაუბრებები Startup Bootcamp-ის წარმომადგენლებთან"
   service: true
 -
   id: 604
-  title: "Sprint-ის დასრულება"
-  description: "სრულდება მუშაობა Design Sprint-ზე"
+  title: "FastTrack-ის დასრულება"
+  description: ""
   service: true
 -
   id: 701
-  title: "WomenTechMakers"
-  description: "სესია 1"
+  title: "Why women should code?"
+  description: ""
   service: true
 -
   id: 702
-  title: "WomenTechMakers"
-  description: "სესია 2"
+  title: "The way from paining brush to mouse"
+  description: ""
+  service: true
+-
+  id: 703
+  title: "How tech change cooking?"
+  description: ""
+  service: true
+-
+  id: 704
+  title: "First digital-humanists"
+  description: ""
   service: true
 -
   id: 805
@@ -276,7 +300,7 @@
   service: true
 -
   id: 900
-  title: "დაჯილდოება"
-  description: "გამარჯვებულების დაჯილდოება და DevFest-ის დახურვა"
+  title: "დახურვა"
+  description: "GBG Tbilisi 2016 -ის დახურვა"
   service: true
-  place: "200-ე აუდიტორია"
+  place: "ჯეოლაბი"

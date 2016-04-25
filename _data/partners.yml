@@ -11,7 +11,6 @@
   elements: 
     - {name: "GAU", description: "GAU", link: "http://gau.ge", imageUrl: "gau-logo.svg", width: "120px"}
     - {name: "Gita", description: "Gita", link: "http://gita.gov.ge", imageUrl: "gita-logo.svg", width: "400px", height: "400px"}
-    - {name: "Ikano", description: "Ikano", link: "http://ikano.ge", imageUrl: "ikano.svg", width: "80px"}
 # - 
   # group: "Information partners"
   # elements: 

@@ -40,13 +40,12 @@
         sessionIds: [411]
     }
 - 
-  date: "2015-11-07"
-  dateReadable: "7 ნოემბერი"
+  date: "2016-04-16"
+  dateReadable: "16 აპრილი"
   tracks: 
     - {title: "ღია ლექციები", color: "#2196F3"}
-    - {title: "ვორქშოფები", color: "#009688"}
-    - {title: "WomanTechMakers", color: "#00E5FF"}
-    - {title: "ჰაკათონი", color: "#607D8B"}
+    - {title: "Tech Talk", color: "#009688"}
+    - {title: "FastTrack", color: "#00E5FF"}
     - {title: "ჯეოლაბი", color: "#512DA8"}
   timeslots: 
     - {

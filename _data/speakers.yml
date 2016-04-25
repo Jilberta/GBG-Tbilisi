@@ -14,7 +14,7 @@
     - {name: "site", link: "http://www.protechman.net/"}
 - 
   id: 4
-  name: "ვახო"
+  name: "ვახო "
   surname: "ვახტანგიშვილი"
   company: "GBG Tbilisi Manager, Co-founder of Leavingstone"
   title: "GBG Tbilisi Manager, Co-founder of Leavingstone, Co-founder of GeoLab"
@@ -28,44 +28,37 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/vakhtangishvili"}
 - 
   id: 5
-  name: "დავით"
-  surname: "ჩიკვაიძე"
-  company: "Co-Founder at In2circle"
+  name: "David "
+  surname: "Chikvaidze"
+  company: ""
   title: ""
-  bio: '<p>დაიწყო ვებ სტუდია Pixel-ში ვებ დიზაინერად, შემდეგ Singular Group-ში იყო არტ დირექტორი, შემდეგ Bank of Georgia - Digital Experience Designer. ამჟამად არის <a href="http://sadili.ge">სადილი.ge</a> (საჭმლის ქეითერინგ სერვისი, in2circle inc.-ის ქვეკომპანია) - თანადამფუძნებელი და Spribe (IT კომპანია, <a href="http://spribe.co/">spribe.co</a>) - პარტნიორი.</p>'
-  thumbnailUrl: shalva_bukia.jpg
+  bio: "Certified Training Manager with 9 years experience in number of fields including: Sales, Service Management, Leadership, Team Building. Professional trainer for customer service and sales."
+  thumbnailUrl: david_chikvaidze.jpg
   rockstar: true
   social: 
-    - {name: "facebook", link: "https://www.facebook.com/shalvius"}
-    - {name: "site", link: "http://sadili.ge"}
-    - {name: "site", link: "http://spribe.co"}
+    - {name: "facebook", link: "https://www.facebook.com/davidtrainingman"}
 - 
   id: 6
-  name: "ოთო "
-  surname: "მესხი"
-  company: "Developer"
+  name: "ანდრო "
+  surname: "დღებუაძე"
+  company: ""
   title: ""
-  bio: "13 წლიანი გამოცდილების მქონე Software Architect და Full Stack Developer. ბოლო სამუშაო - პროგრამული უზრუნველყოფის განყოფილების უფროსი სილქნეტში; ამ ეტაპზე - საკუთარი სტარტაპის განვითარება, სხვა და სხვა საინტერესო პროექტებში ჩართულობა."
-  thumbnailUrl: oto_meskhi.jpg
+  bio: "მეწარმე ბიზნეს კონსულტანტი, საინფორმაციო ტექნოლოგიების სპეციალისტი, ლექტორი და საჯარო სპიკერი. თავის საჯარო გამოსვლებში იგი დიდ ადგილს უთმობს ისეთ თემებს როგორიცაა: თამაშის თეორია, პიროვნების და ორგანიზაციის ფილოსოფია და კულტურა, ინოვაციების მართვა."
+  thumbnailUrl: andro_dgebuadze.jpg
   rockstar: true
   social: 
-    - {name: "facebook", link: "https://www.facebook.com/otomeskhy"}
-    - {name: "twitter", link: "https://twitter.com/otomeskhy"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/otomeskhy"}
+    - {name: "facebook", link: "https://www.facebook.com/probnoblem"}
 - 
   id: 7
-  name: "ანდრო "
-  surname: "აბაშიძე"
-  company: "Mobius, Freelancer"
-  title: "Game Designer"
-  bio: "10 წელია დაკავებულია გრაფიკული დიზაინით, ხოლო ბოლო 5 წელი - თამაშების და აპლიკაციების დიზაინით... ამჟამად მუშაობს კომპანია მობიუსში და თავისუფალ დროს მუშაობს ფრილანს პროექტებზე. ლამაზი, საყვარელი, ფუმფულა. უყვარს თამაშები, ცოცხლობს თამაშებით და თვითონაც თამაშობს :) PS. დახურული აქვს Counter-Strike !"
-  thumbnailUrl: andro_abashidze_2.jpg
+  name: "Levan "
+  surname: "Paitchadze"
+  company: "Ideahub"
+  title: ""
+  bio: "ideahub'ის დამფუძნებელი და დირექტორი. ასევე დავაფუძნებელი ვებ სტუდია deastudio. მჯერა იდეების, ინოვაციებისა და კრეატივის ნებისმიერ საქმეში. ""The people who are crazy enough to think they can change the world, are the ones who do"" ­ Steve Jobs"
+  thumbnailUrl: levan_paitchadze.jpg
   rockstar: true
   social: 
-    - {name: "facebook", link: "https://www.facebook.com/andronix1"}
-    - {name: "site", link: "https://www.facebook.com/AndronixGFX/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAABJNyi0BUyI0rmnm_R_Q6NJC6M-XYz7RFEE&trk=hp-identity-name"}
-    - {name: "site", link: "https://www.behance.net/AndroniX"}
+    - {name: "facebook", link: "https://www.facebook.com/levan.paitchadze"}
 - 
   id: 8
   name: "დავით "
@@ -79,17 +72,28 @@
     - {name: "facebook", link: "https://www.facebook.com/deo.gochava"}
 - 
   id: 9
-  name: "აჩი "
-  surname: "კუპრაშვილი"
-  company: "Leavingstone"
-  title: "Developer"
-  bio: "მეზარებოდა რა სკოლაში გაკვეთილებზე სიარული, 13 წლის ასაკში დავიწყე ალგორითმების “წრეზე სიარული”. ჩანაფიქრმა გაამართლა, და მეტიც დამაინტერესა და მიმახვედრა, რომ That’s my life. უკვე 2 წელია Leavingstone რიგებში ვიბრძვი IOS Developer_ის სტატუსით. ჰობი - კალათურთის თამაში და საზოგადოებრივ თავშეყრის ადგილებში ძილი. დახასიათება - უნიკალურად ზარმაცი. შემიძლია ერთდროულად 2 “არაფერი” ვაკეთო."
-  thumbnailUrl: achi_kuprashvili.jpg
+  name: "Irakli "
+  surname: "Gvenetadze"
+  company: ""
+  title: ""
+  bio: "An IT expert with 20 years of experience, including work for governmental, international and private organisations in Georgia. As IT Expert has experience in the following areas: ICT project management; ICT strategy development; ICT infrastructure audit; ICT project implementation audit; ICT strategy plan evaluation; ICT operational management and change management procedure development; Management of IT supply and software development tenders; ICT security policy development."
+  thumbnailUrl: irakli_gvenetadze.jpg
   rockstar: true
   social: 
-    - {name: "facebook", link: "https://www.facebook.com/achiko.kuprashvili"}
+    - {name: "facebook", link: "https://www.facebook.com/irakli.gvenetadze"}
 - 
   id: 10
+  name: "Bacho "
+  surname: "Khachidze"
+  company: "TreePex"
+  title: ""
+  bio: "Have passion... love it, have fun what you do...don’t let others tell you something can’t be done...build things for yourself at first that you would love, you would want! Here comes the clock;"
+  thumbnailUrl: bacho_khachidze.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/bacho.khachidze.7"}
+- 
+  id: 11
   name: "ილო "
   surname: "ღლონტი"
   company: "Head of Seed Forum Georia, Founder of IHUB Tbilisi."
@@ -99,17 +103,6 @@
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/iliaglonti"}
-- 
-  id: 11
-  name: "Vardan "
-  surname: "Grigoryan"
-  company: "GDG Yerevan"
-  title: ""
-  bio: "GDG Yerevan Organizer for 5 years. Currently work as a Product Owner at Ginosi Apartments, mostly focused on UX, so we call it UX Owner."
-  thumbnailUrl: vardan_grigoryan.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/ajmikzer"}
 - 
   id: 12
   name: "ოთო "
