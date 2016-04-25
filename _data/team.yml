@@ -62,7 +62,7 @@
 
 -
   id: 1
-  name: "Sandro  "
+  name: "Sandro &nbsp &nbsp"
   surname: "  Asatiani"
   title: "Rector at GeoLab"
   thumbnailUrl: sandro_asatiani.jpg
@@ -86,7 +86,7 @@
 #     - {name: "linkedin", link: "https://www.linkedin.com/pub/nino-nanitashvili/b1/492/401"}
 -
   id: 3
-  name: "Vakho  "
+  name: "Vakho &nbsp &nbsp"
   surname: "  Vakhtangishvili"
   title: "GBG Tbilisi Manager, Co-Founder Leavingstone"
   thumbnailUrl: vakho_vakhtangishvili_3.jpg
@@ -98,7 +98,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/vakhtangishvili"}
 -
   id: 4
-  name: "Alexi  "
+  name: "Alexi &nbsp &nbsp"
   surname: "  Amniashvili"
   title: "GeoLab Lecturer"
   thumbnailUrl: alexi_amniashvili.jpg
@@ -110,7 +110,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAnnp3IBQt-cEzYV6Kvw5mSnJygNnqkX468&trk=hp-identity-photo"}
 -
   id: 5
-  name: "Giorgi  "
+  name: "Giorgi &nbsp &nbsp"
   surname: "  Vakhtangishvili"
   title: "CTO at GeoLab"
   thumbnailUrl: giorgi_vakhtangishvili.jpg
@@ -122,7 +122,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=AAMAAAeaH5ABXrI5syaPewd_TQVBnAHrXAy6JhI&trk=hp-identity-name"}
 -
   id: 6
-  name: "Lika  "
+  name: "Lika &nbsp &nbsp"
   surname: "  Moshiashivili"
   title: "ჯეოლაბის მედიისა და კომუნიკაციის მენეჯერი"
   thumbnailUrl: lika_moshiashvili.jpg
@@ -132,7 +132,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/pub/lika-moshiashvili/106/aa8/920"}
 -
   id: 7
-  name: "Levan  "
+  name: "Levan &nbsp &nbsp"
   surname: "  Asatiani"
   title: "UX/UI Designer"
   thumbnailUrl: levan_asatiani.jpg
@@ -141,7 +141,7 @@
     - {name: "facebook", link: "https://www.facebook.com/asatianilevan"}
 -
   id: 8
-  name: "Anano  "
+  name: "Anano &nbsp &nbsp"
   surname: "  Sharashenidze"
   title: "UX/UI Designer"
   thumbnailUrl: anano_sharashenidze.jpg
@@ -150,7 +150,7 @@
     - {name: "facebook", link: "https://www.facebook.com/ann.anno.3"}
 -
   id: 30
-  name: "GeoLab  "
+  name: "GeoLab &nbsp &nbsp"
   surname: "  Team"
   title: "Web and Mobile apps Laboratory"
   thumbnailUrl: geolab_team.jpg

@@ -1,6 +1,6 @@
 - 
   id: 3
-  name: "Resul Caner "
+  name: "Resul &nbsp Caner &nbsp"
   surname: " Yıldırım"
   company: "Google Developer Expert (GDE)"
   title: "InnovationBox, Protechman.net"
@@ -14,7 +14,7 @@
     - {name: "site", link: "http://www.protechman.net/"}
 - 
   id: 4
-  name: "ვახო  "
+  name: "ვახო &nbsp &nbsp"
   surname: " ვახტანგიშვილი"
   company: "GBG Tbilisi Manager, Co-founder of Leavingstone"
   title: "GBG Tbilisi Manager, Co-founder of Leavingstone, Co-founder of GeoLab"
@@ -28,7 +28,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/vakhtangishvili"}
 - 
   id: 5
-  name: "David  "
+  name: "David &nbsp &nbsp"
   surname: " Chikvaidze"
   company: ""
   title: ""
@@ -39,7 +39,7 @@
     - {name: "facebook", link: "https://www.facebook.com/davidtrainingman"}
 - 
   id: 6
-  name: "ანდრო  "
+  name: "ანდრო &nbsp &nbsp"
   surname: " დგებუაძე"
   company: "Consultant at USAID, World Bank, Managing Partner ar A-LIVE"
   title: ""
@@ -50,7 +50,7 @@
     - {name: "facebook", link: "https://www.facebook.com/probnoblem"}
 - 
   id: 7
-  name: "Levan  "
+  name: "Levan &nbsp &nbsp"
   surname: " Paitchadze"
   company: "Ideahub"
   title: ""
@@ -61,7 +61,7 @@
     - {name: "facebook", link: "https://www.facebook.com/levan.paitchadze"}
 - 
   id: 8
-  name: "ლაშა  "
+  name: "ლაშა &nbsp &nbsp"
   surname: " გოგუა"
   company: "CMO at Europe-Bet.com, Founder of GIZGIZA"
   title: "Marketing and Advertising"
@@ -72,7 +72,7 @@
     - {name: "facebook", link: "https://www.facebook.com/lashagg"}
 - 
   id: 9
-  name: "Irakli  "
+  name: "Irakli &nbsp &nbsp"
   surname: " Gvenetadze"
   company: "Ministry of Justice"
   title: ""
@@ -83,7 +83,7 @@
     - {name: "facebook", link: "https://www.facebook.com/irakli.gvenetadze"}
 - 
   id: 10
-  name: "Bacho  "
+  name: "Bacho &nbsp &nbsp"
   surname: " Khachidze"
   company: "TreePex"
   title: ""
@@ -94,7 +94,7 @@
     - {name: "facebook", link: "https://www.facebook.com/bacho.khachidze.7"}
 - 
   id: 11
-  name: "Çigdem  "
+  name: "Çigdem &nbsp &nbsp"
   surname: " Toraman"
   company: "Managing Director at Startupbootcamp Istanbul"
   title: "Startupbootcamp Mentor"
@@ -105,7 +105,7 @@
     - {name: "facebook", link: "https://www.facebook.com/cigdem.toraman"}
 - 
   id: 12
-  name: "ლევან  "
+  name: "ლევან &nbsp &nbsp"
   surname: " ბუთხუზი"
   company: "National Geographic"
   title: "რედაქტორი"
@@ -117,7 +117,7 @@
 
 - 
   id: 13
-  name: "Colin  "
+  name: "Colin &nbsp &nbsp"
   surname: " Donohue"
   company: "Root Deeper"
   title: "Principal Strategist Root Deeper Marketing"
@@ -129,7 +129,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/colinmdonohue"}
 - 
   id: 14
-  name: "Nino  "
+  name: "Nino &nbsp &nbsp"
   surname: " Bigvava"
   company: "FINCA Bank Georgia, Centre for Training and Consultancy (CTC), ICT Business Council"
   title: "Project Management Professional"
@@ -141,7 +141,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/bigvava"}
 - 
   id: 15
-  name: "Anri  "
+  name: "Anri &nbsp &nbsp"
   surname: " Jikia"
   company: "Geocell - ჯეოსელი"
   title: "Portfolio & Project Management Office Manager"
@@ -153,7 +153,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/anri-jikia-14692a40"}
 - 
   id: 16
-  name: "ანი  "
+  name: "ანი &nbsp &nbsp"
   surname: " ასათიანი"
   company: "FreeLancer"
   title: "Web Developer, FreeLancer"
@@ -164,7 +164,7 @@
     - {name: "facebook", link: "https://www.facebook.com/hafarflocken"}
 - 
   id: 17
-  name: "Lika  "
+  name: "Lika &nbsp &nbsp"
   surname: " Moshiashvili"
   company: "PR and Digital Marketing Manager, Journalist"
   title: ""
@@ -175,7 +175,7 @@
     - {name: "facebook", link: "https://www.facebook.com/lika.moshiashvili.3"}
 - 
   id: 18
-  name: "ანანო  "
+  name: "ანანო &nbsp &nbsp"
   surname: " ასპანიძე"
   company: "GIPA, GeoLab"
   title: "Programmer"
@@ -186,7 +186,7 @@
     - {name: "facebook", link: "https://www.facebook.com/anano.aspanidze"}
 - 
   id: 19
-  name: "პავლე  "
+  name: "პავლე &nbsp &nbsp"
   surname: " გაბრიჩიძე"
   company: "Leavingstone"
   title: "Digital Marketing"
@@ -197,7 +197,7 @@
     - {name: "facebook", link: "https://www.facebook.com/pavlegabritchidze"}
 - 
   id: 20
-  name: "თამთა  "
+  name: "თამთა &nbsp &nbsp"
   surname: " კიკალეიშვილი"
   company: "Restaurant Terrace"
   title: "Cook"
@@ -208,7 +208,7 @@
     - {name: "facebook", link: "https://www.facebook.com/tamtak"}
 - 
   id: 21
-  name: "გაბო  "
+  name: "გაბო &nbsp &nbsp"
   surname: " მელიავა"
   company: "Fotorator, Memogram"
   title: "CEO & Founder at Fotorator, CEO & Founder at Memogram"
