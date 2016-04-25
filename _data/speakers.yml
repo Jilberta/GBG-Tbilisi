@@ -206,6 +206,17 @@
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/tamtak"}
+- 
+  id: 21
+  name: "გაბო  "
+  surname: "მელიავა"
+  company: "Fotorator, Memogram"
+  title: "CEO & Founder at Fotorator, CEO & Founder at Memogram"
+  bio: ""
+  thumbnailUrl: gabo_meliava.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/gmeliva"}
 # -
 #   id: 5
 #   name: "ირაკლი"
