@@ -14,7 +14,7 @@
     - {name: "site", link: "http://www.protechman.net/"}
 - 
   id: 4
-  name: "ვახო "
+  name: "ვახო  "
   surname: "ვახტანგიშვილი"
   company: "GBG Tbilisi Manager, Co-founder of Leavingstone"
   title: "GBG Tbilisi Manager, Co-founder of Leavingstone, Co-founder of GeoLab"
@@ -28,7 +28,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/vakhtangishvili"}
 - 
   id: 5
-  name: "David "
+  name: "David  "
   surname: "Chikvaidze"
   company: ""
   title: ""
@@ -39,7 +39,7 @@
     - {name: "facebook", link: "https://www.facebook.com/davidtrainingman"}
 - 
   id: 6
-  name: "ანდრო "
+  name: "ანდრო  "
   surname: "დგებუაძე"
   company: "Consultant at USAID, World Bank, Managing Partner ar A-LIVE"
   title: ""
@@ -50,29 +50,29 @@
     - {name: "facebook", link: "https://www.facebook.com/probnoblem"}
 - 
   id: 7
-  name: "Levan "
+  name: "Levan  "
   surname: "Paitchadze"
   company: "Ideahub"
   title: ""
   bio: "ideahub'ის დამფუძნებელი და დირექტორი. ასევე დავაფუძნებელი ვებ სტუდია deastudio. მჯერა იდეების, ინოვაციებისა და კრეატივის ნებისმიერ საქმეში."
-  thumbnailUrl: levan_paitchadze.jpg
+  thumbnailUrl: levan_paitchadze.png
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/levan.paitchadze"}
 - 
   id: 8
-  name: "ლაშა "
+  name: "ლაშა  "
   surname: "გოგუა"
   company: "CMO at Europe-Bet.com, Founder of GIZGIZA"
   title: "Marketing and Advertising"
   bio: ""
-  thumbnailUrl: lasha_gogua.jpg
+  thumbnailUrl: lasha_gogua.png
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/lashagg"}
 - 
   id: 9
-  name: "Irakli "
+  name: "Irakli  "
   surname: "Gvenetadze"
   company: "Ministry of Justice"
   title: ""
@@ -83,7 +83,7 @@
     - {name: "facebook", link: "https://www.facebook.com/irakli.gvenetadze"}
 - 
   id: 10
-  name: "Bacho "
+  name: "Bacho  "
   surname: "Khachidze"
   company: "TreePex"
   title: ""
@@ -94,7 +94,7 @@
     - {name: "facebook", link: "https://www.facebook.com/bacho.khachidze.7"}
 - 
   id: 11
-  name: "Çigdem "
+  name: "Çigdem  "
   surname: "Toraman"
   company: "Managing Director at Startupbootcamp Istanbul"
   title: "Startupbootcamp Mentor"
@@ -105,7 +105,7 @@
     - {name: "facebook", link: "https://www.facebook.com/cigdem.toraman"}
 - 
   id: 12
-  name: "ლევან "
+  name: "ლევან  "
   surname: "ბუთხუზი"
   company: "National Geographic"
   title: "რედაქტორი"
@@ -117,19 +117,19 @@
 
 - 
   id: 13
-  name: "Colin "
+  name: "Colin  "
   surname: "Donohue"
   company: "Root Deeper"
   title: "Principal Strategist Root Deeper Marketing"
   bio: "Entrepreneurial and impact-driven manager for non-profit and for profit enterprises. Enterprise strategist experienced operating at multiple scales, in different organizational forms,from local to international. Experienced with social dynamics management from facilitation to educational methods and communications. "
-  thumbnailUrl: colin.png
+  thumbnailUrl: colin.jpg
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/colin.m.donohue"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/colinmdonohue"}
 - 
   id: 14
-  name: "Nino "
+  name: "Nino  "
   surname: "Bigvava"
   company: "FINCA Bank Georgia, Centre for Training and Consultancy (CTC), ICT Business Council"
   title: "Project Management Professional"
@@ -141,7 +141,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/bigvava"}
 - 
   id: 15
-  name: "Anri "
+  name: "Anri  "
   surname: "Jikia"
   company: "Geocell - ჯეოსელი"
   title: "Portfolio & Project Management Office Manager"
@@ -153,7 +153,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/anri-jikia-14692a40"}
 - 
   id: 16
-  name: "ანი "
+  name: "ანი  "
   surname: "ასათიანი"
   company: "FreeLancer"
   title: "Web Developer, FreeLancer"
@@ -164,29 +164,29 @@
     - {name: "facebook", link: "https://www.facebook.com/hafarflocken"}
 - 
   id: 17
-  name: "Lika "
+  name: "Lika  "
   surname: "Moshiashvili"
   company: "PR and Digital Marketing Manager, Journalist"
   title: ""
   bio: "Since 2015, the chief information officer and lector in Social Media Management of new and innovative technologies lab ­ Geolab. She has been working at Georgian Public Broadcaster as a correspondent and co­host of morning show ­ Dila Pirvelze for more than three years. Since 2011 Lika conducts trainings in online communications for varies companies, organizations, universities, schools in Tbilisi and different part of Georgia."
-  thumbnailUrl: lika_moshiashvili_2.png
+  thumbnailUrl: lika_moshiashvili_2.jpg
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/lika.moshiashvili.3"}
 - 
   id: 18
-  name: "ანანო "
+  name: "ანანო  "
   surname: "ასპანიძე"
   company: "GIPA, GeoLab"
   title: "Programmer"
   bio: ""
-  thumbnailUrl: anano_aspanidze.png
+  thumbnailUrl: anano_aspanidze.jpg
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/anano.aspanidze"}
 - 
   id: 19
-  name: "პავლე "
+  name: "პავლე  "
   surname: "გაბრიჩიძე"
   company: "Leavingstone"
   title: "Digital Marketing"
@@ -197,12 +197,12 @@
     - {name: "facebook", link: "https://www.facebook.com/pavlegabritchidze"}
 - 
   id: 20
-  name: "თამთა "
+  name: "თამთა  "
   surname: "კიკალეიშვილი"
   company: "Restaurant Terrace"
   title: "Cook"
   bio: ""
-  thumbnailUrl: tamta_kikaleishvili.png
+  thumbnailUrl: tamta_kikaleishvili.jpg
   rockstar: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/tamtak"}
